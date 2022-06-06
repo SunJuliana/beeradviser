@@ -30,3 +30,4 @@ public class FindBeerActivity extends Activity {
         brands.setText(brandsFormatted);
     }
 }
+// приложение работает как ожидаемо
